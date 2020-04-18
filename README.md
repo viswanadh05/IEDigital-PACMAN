@@ -1,5 +1,5 @@
 # Project Title
-Pacman Simulator: The application is a simulation of Pacman moving on in a grid, of dimensions 5 units x 5 units.There are no other obstructions on the grid.Pacman is free to roam around the surface of the grid, but must be prevented from moving off the grid. Any movement that would result in Pacman moving off the grid must be prevented, however further valid movement commands must still be allowed.
+Pacman Simulator: The application is a simulation of Pacman moving on in a grid, of dimensions 5 units x 5 units.
 
 ## Getting Started
 Application will run effectively in chrome or Firefox browsers.
@@ -12,6 +12,8 @@ Application will run effectively in chrome or Firefox browsers.
   HTML5, CSS3, Javascript and JQuery Libraries
 
 ## Game description
+There are no other obstructions on the grid.Pacman is free to roam around the surface of the grid, but must be prevented from moving off the grid. Any movement that would result in Pacman moving off the grid must be prevented, however further valid movement commands must still be allowed.
+
 * Application is built with 5 x 5 grid and simulating pacman moving in the grid.
 * There are no obstructions on the grid.
 * Application is created to take and read the instructions in the form of commands.

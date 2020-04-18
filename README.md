@@ -9,7 +9,7 @@ Application will run effectively in chrome or Firefox browsers.
 * A code editor to check the code.
 
 ## Built With
-  HTML5, CSS3, Javascript and JQuery Libraries
+__HTML5__, __CSS3__, __Javascript__ and __JQuery Libraries__
 
 ## Game description
 There are no other obstructions on the grid.Pacman is free to roam around the surface of the grid, but must be prevented from moving off the grid. Any movement that would result in Pacman moving off the grid must be prevented, however further valid movement commands must still be allowed.

@@ -26,3 +26,8 @@ Run index.html file with any browser.
 
 ## Author
 Viswanadh Bhaskarla
+
+## Project Images
+
+![Pacman](https://user-images.githubusercontent.com/6322818/79625940-d6018c00-816f-11ea-8463-774161bcd2c9.PNG)
+
